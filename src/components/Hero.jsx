@@ -70,6 +70,7 @@ const Section = styled.section`
         padding: 0 30vw;
         margin-top: 0.5rem;
         font-size: 1.2rem;
+        font-family:"Lobster";
       }
     }
     .search {
