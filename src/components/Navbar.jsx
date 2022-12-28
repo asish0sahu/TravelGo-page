@@ -27,7 +27,7 @@ export default function Navbar() {
             <a href="#hero">Home</a>
           </li>
           <li>
-            <a href="#services">About</a>
+            <a href="#services">Services</a>
           </li>
           <li>
             <a href="#recommend">Places</a>
@@ -47,7 +47,7 @@ export default function Navbar() {
           </li>
           <li>
             <a href="#services" onClick={() => setNavbarState(false)}>
-              About
+              Services
             </a>
           </li>
           <li>
